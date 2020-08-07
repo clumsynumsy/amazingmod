@@ -17,7 +17,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import java.util.stream.Collectors;
-
+// A new little comment haha
 @Mod("examplemod")
 public class cd goodmod
 {
