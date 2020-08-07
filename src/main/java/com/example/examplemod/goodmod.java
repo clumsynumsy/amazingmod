@@ -18,6 +18,7 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.stream.Collectors;
 // A new little comment haha
+//comment bc why not
 @Mod("examplemod")
 public class cd goodmod
 {
